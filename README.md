@@ -1,1 +1,1 @@
-# MovieLens-Recommendation-Syatem
+# MovieLens-Recommendation-System
